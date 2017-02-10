@@ -1,0 +1,17 @@
+@media only screen and (min-width: 675px) {
+    body {
+        background-color: green;
+    }
+}
+
+@media only screen and (min-width: 999px) {
+    body {
+        background-color: blue;
+    }
+}
+
+@media only screen and (min-width: 1280px) {
+    body {
+        background-color: purple;
+    }
+}
